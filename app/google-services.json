@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1092017461458",
+    "firebase_url": "https://chatting-5b641.firebaseio.com",
+    "project_id": "chatting-5b641",
+    "storage_bucket": "chatting-5b641.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092017461458:android:8e94fc0f1027e7e6bef50b",
+        "android_client_info": {
+          "package_name": "com.mohammadsulaeman.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092017461458-s47p4c5no9993oi5qc7mqeo5se1cujcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChdxWEfC54q87ie50jb3WBFaPVgozU6mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092017461458-s47p4c5no9993oi5qc7mqeo5se1cujcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
